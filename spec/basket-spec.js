@@ -21,7 +21,7 @@ describe("Basket", () => {
   });
 });
 
-it("User can add more than one bagel to basket", () => {
+it("Add more than one bagel to basket", () => {
   const expected = [
     {
       id: 1,

@@ -25,6 +25,9 @@ As a member of the public,
 So that I can change my order
 I'd like to remove an item from my basket
 ```
+
+
+
 ---
 ```
 # Part 2

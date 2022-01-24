@@ -36,9 +36,9 @@
       "name": "Bagel Sandwich",
       "variant": "Everything",
       "fillings": [
-        "Bacon",
-        "Egg",
-        "Cheese"
+        "B",
+        "E",
+        "C"
       ]
     },
     {
@@ -47,8 +47,8 @@
       "name": "Bagel Sandwich",
       "variant": "Sesame",
       "fillings": [
-        "Cream Cheese",
-        "Smoked Salmon"
+        "CC",
+        "SS"
       ]
     },
   ]
